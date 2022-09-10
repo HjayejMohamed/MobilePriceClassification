@@ -7,6 +7,7 @@
 3. [Heroku Account](https://heroku.com)
 4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
+### Steps
 Create a new environment
 ```
 conda create -p venv python==3.7 -y
@@ -29,3 +30,6 @@ Create main.yaml file
 Configure github actions
 
 Push files to github
+
+### App:
+[Open App](https://mobilepriceclassification1.herokuapp.com/)

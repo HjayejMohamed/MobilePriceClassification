@@ -10,4 +10,22 @@
 Create a new environment
 ```
 conda create -p venv python==3.7 -y
+conda activate venv/
 ```
+
+Install requirements
+```
+pip install -r requirements.txt
+```
+
+Create app.py (backend flask)
+
+Create Procfile
+
+Create Dockerfile
+
+Create main.yaml file
+
+Configure github actions
+
+Push files to github
